@@ -1,0 +1,16 @@
+{
+	"weak-passwords": [
+		"FTP 弱口令",
+		"SQLServer 弱口令",
+		"MySQL 弱口令",
+		"PostgreSQL 弱口令",
+		"Redis 未授权访问/弱口令",
+		"shellshock 破壳漏洞",
+		"SMB 匿名共享/弱口令",
+		"SSH 弱口令",
+		"Apache Tomcat 弱口令",
+		"UcServer 创始人弱口令",
+		"Weblogic 控制台弱口令",
+		"WordPress 后台弱口令"
+	]
+}
